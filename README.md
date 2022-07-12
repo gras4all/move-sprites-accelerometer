@@ -1,1 +1,1 @@
-# Example usage accelerometer
+# Example to usage accelerometer
